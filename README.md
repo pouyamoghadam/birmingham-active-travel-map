@@ -41,4 +41,4 @@ OSM coverage reflects volunteer mapping activity and is not a complete inventory
 
 ## Author
 
-Hosein (Pouya) Farmoghaddam — [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/hosein-farmoghaddam/)) · seeking roles in Transport Planning / GIS Analysis
+Hosein Far Moghaddam — [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/hosein-farmoghaddam/)) · seeking roles in Transport Planning / GIS Analysis
