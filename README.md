@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21708312.svg)](https://doi.org/10.5281/zenodo.21708312)
+[![DOI](https://zenodo.org/badge/1316582791.svg)](https://doi.org/10.5281/zenodo.21708312)
 
 # Birmingham Transport Data Analysis
 
