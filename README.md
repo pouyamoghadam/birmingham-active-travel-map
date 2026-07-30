@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21708312.svg)](https://doi.org/10.5281/zenodo.21708312)
+
 # Birmingham Transport Data Analysis
 
 Two independent GIS case studies on transport conditions in Birmingham, UK, built from open government and open geospatial data.
