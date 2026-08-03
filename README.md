@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1316582791.svg)](https://doi.org/10.5281/zenodo.21708311)
+<a href="https://doi.org/10.5281/zenodo.21708312"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.21708312.svg" alt="DOI"></a>
 
 # Birmingham Transport Data Analysis
 
@@ -32,6 +32,8 @@ Full methodology, findings, limitations, and academic references are in [`Birmin
 ## Method
 
 Built with Python (pandas, haversine distance calculations) for data processing, and Leaflet.js / Chart.js for interactive visualisation. Full technical methodology is documented in the report.
+
+Source code for the data pipeline is in src/. See file headers for data download instructions (Overpass Turbo / DfT). Run `pip install -r requirements.txt` then each script directly.
 
 ## Limitations
 
